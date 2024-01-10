@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e85f4016-d2cc-47ea-ab0b-963e00db53ff</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python_esimesed_funktsioonid.py</StartupFile>
+    <StartupFile>Vigade.otsing.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
